@@ -11,3 +11,11 @@ I hope you will like them !
 <p align="center">
   <img src="https://c.tenor.com/ADcgmw_-C9QAAAAi/screen-computer-games.gif", title="Cat Gif", alt="Cat Gif">
 </p>
+
+## My Projects
+  
+**Ongoing** :  
+  
+-> [Data Science Project : Happier city bike riders in Helsinki](https://github.com/kchardon/Data-Science-Project)  
+
+-> [My Tic Tac Toe](https://github.com/kchardon/TIC-TAC-TOE)
