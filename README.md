@@ -20,4 +20,11 @@ I hope you will like them !
 
 -> [My Tic Tac Toe](https://github.com/kchardon/TIC-TAC-TOE)
 
--> [Game Off 2021](https://itch.io/jam/game-off-2021) (not started yet)
+-> [Game Off 2021](https://itch.io/jam/game-off-2021) (not started yet)  
+  
+<br/><br/><br/>  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kchardon&show_icons=true&theme=dracula", title="Katia's GitHub stats", alt="Katia's GitHub stats"></a><br><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchardon&layout=compact", title="Katia's Top Langs", alt="Katia's Top Langs"></a>
+</p>
+   
