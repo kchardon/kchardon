@@ -1,4 +1,4 @@
-![Photo of Porvoo, Helsinki](https://github.com/kchardon/pictures/blob/main/banniere.jpg "Photo of Porvoo, Helsinki")
+![Photo of Porvoo, Helsinki](https://github.com/kchardon/kchardon/blob/main/banniere.jpg "Photo of Porvoo, Helsinki")
 
 <br><br>
 # Hi!
