@@ -22,9 +22,7 @@ I hope you will like them !
 
 :open_file_folder: **Terminated** :
 
--> [Data Science Project : Happier city bike riders in Helsinki](https://github.com/kchardon/Data-Science-Project)  
-
--> Past Projects  
+-> [Data Science Project : Happier city bike riders in Helsinki](https://github.com/kchardon/Data-Science-Project)   
   
 <br/><br/><br/>  
 <p align="center">
