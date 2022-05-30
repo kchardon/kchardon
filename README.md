@@ -17,6 +17,7 @@ I hope you will like them !
 :computer: **Ongoing** :
 
 -> [Data Science Project on video games]()
+-> [Energy Data Hack]()
 
 :open_file_folder: **Terminated** :
 
