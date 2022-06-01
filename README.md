@@ -16,9 +16,9 @@ I hope you will like them !
   
 :computer: **Ongoing** :
 
--> [Data Science Project on video games]()
+-> Data Science Project on video games
 
--> [Energy Data Hack]()
+-> [Energy Data Hack](https://github.com/kchardon/Energy-Data-Hack)
 
 :open_file_folder: **Terminated** :
 
