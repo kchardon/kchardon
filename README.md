@@ -18,8 +18,6 @@ I hope you will like them !
 
 -> Data Science Project on video games
 
--> [Energy Data Hack](https://github.com/kchardon/Energy-Data-Hack)
-
 :open_file_folder: **Terminated** :
 
 -> [Data Science Project : Happier city bike riders in Helsinki](https://github.com/kchardon/Data-Science-Project) 
