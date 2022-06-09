@@ -16,7 +16,7 @@ I hope you will like them !
   
 :computer: **Ongoing** :
 
--> Data Science Project on video games
+-> [Data Science Project on video games](https://github.com/kchardon/video-games-project)
 
 :open_file_folder: **Terminated** :
 
