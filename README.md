@@ -4,25 +4,17 @@
 # Hi! :cherry_blossom:
 My name is Katia and I'm from France ! 👋
   
-I'm currently studying in the [Data&AI Master](https://dataai.telecom-paris.fr/) at the [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) and I'm really passionate about Computer Science.
-I started programming a VERY long time ago and I never stopped. I will make various projects and present them here to try to improve my skills.  
-I hope you will like them !
+I'm currently studying in the [Data&AI Master](https://dataai.telecom-paris.fr/) at the [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) and I am interested in pursuing a PhD in AI for mental health next year.
 
-<p align="center">
-  <img src="https://c.tenor.com/ADcgmw_-C9QAAAAi/screen-computer-games.gif", title="Cat Gif", alt="Cat Gif">
-</p>
-
-## My Projects
+Here are some of the projects I carried out during my studies :
   
-:computer: **Ongoing** :
+-> [Data Science Project : Happier city bike riders in Helsinki](https://github.com/kchardon/Data-Science-Project) (during my exchange semester at the University of Helsinki in 2021)
 
--> [Data Science Project on video games](https://github.com/kchardon/video-games-project)
+-> [Research Project : Youth Privacy Protection and Online Gaming](https://github.com/kchardon/YPPOG_project_M1) with the [Institut DATAIA](http://dataia.eu/) (during my M1-M2 in 2023)
 
-:open_file_folder: **Terminated** :
+-> [Internship Project : Brain age prediction with MEG - benchmark](https://github.com/apmellot/brain_age_meeg_benchmark) (during my M1 internship in 2023)
 
--> [Data Science Project : Happier city bike riders in Helsinki](https://github.com/kchardon/Data-Science-Project) 
-
--> [My Tic Tac Toe](https://github.com/kchardon/TIC-TAC-TOE)
+-> [Internship Project : ADHD/Parkinson Brain Functional Connectivity](https://github.com/kchardon/adhd_brain_functional_connectivity) (during my M1 internship in 2023)
   
 <br/><br/><br/>  
 <p align="center">
