@@ -4,7 +4,7 @@
 # Hi! :cherry_blossom:
 My name is Katia and I'm from France ! 👋
   
-I'm currently studying in the [Data&AI Master](https://dataai.telecom-paris.fr/) at the [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) and I am interested in pursuing a PhD in AI for mental health next year.
+I'm currently studying in the [Data&AI Master](https://dataai.telecom-paris.fr/) at the [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).
 
 Here are some of the projects I carried out during my studies :
   
